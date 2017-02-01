@@ -25,3 +25,7 @@ links:
 
 # Build settings
 markdown: kramdown
+
+# Sass settings
+sass:
+sass_dir: css
