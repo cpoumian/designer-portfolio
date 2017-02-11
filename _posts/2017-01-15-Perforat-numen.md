@@ -3,6 +3,7 @@ layout: post
 title:  "Perforat numen"
 date:   2017-01-15 14:08:27
 categories: jekyll update
+featured: true
 ---
 
 ## Proles tantummodo plurima in medio intonsumque adest
