@@ -3,6 +3,7 @@ layout: post
 title:  "Otentia oscula sum fugisse colebas"
 date:   2017-01-29 14:08:27
 categories: jekyll update
+tags: code
 ---
 
 ## Crudeles libertas sine fluctibus potenti

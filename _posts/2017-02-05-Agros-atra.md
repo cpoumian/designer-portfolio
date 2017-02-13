@@ -3,6 +3,7 @@ layout: post
 title:  "Agros atra gigantas oblite"
 date:   2017-02-05 14:08:27
 categories: jekyll update
+tags: code inspiration
 ---
 
 ## Volucres pudorque illud ab volucres mortis perdere
