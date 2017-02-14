@@ -2,7 +2,7 @@
 layout: post
 title:  "Secant fauces"
 date:   2017-01-08 14:08:27
-categories: jekyll update
+categories: blog
 featured: true
 tags: snippet
 ---

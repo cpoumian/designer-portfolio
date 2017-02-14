@@ -2,7 +2,7 @@
 layout: post
 title:  "Perforat numen"
 date:   2017-01-15 14:08:27
-categories: jekyll update
+categories: blog
 featured: true
 tags: layout design
 ---
